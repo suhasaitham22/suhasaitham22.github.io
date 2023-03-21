@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Student Dropout Prediction 
 
 [Project 1 Title](/sample_page)
 <img src="images/std drpt.gif?raw=true"/>
